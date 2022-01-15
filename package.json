@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "got": "^9.6.0",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "mz": "^2.7.0",
     "puppeteer": "^1.20.0"
   },
